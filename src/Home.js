@@ -5,6 +5,7 @@ const Home = () => {
         <div>
             <h3>I am cool Home Component</h3>
             <h3>from file Home js !!!</h3>
+            <h3>This is a New Branch test Package json</h3>
         </div>
     )
 }
